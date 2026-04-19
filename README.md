@@ -12,6 +12,10 @@ Note: This uses the excelent [Rapier](http://rapier.rs) library inside, made by 
 
 ![Godot SoftBody2D](https://github.com/appsinacup/godot-softbody2d/blob/main/softbody2d_banner.jpg?raw=true)
 
+- [Godot Whisper](https://github.com/appsinacup/godot-whisper)
+
+![Godot Whisper](https://github.com/appsinacup/godot-whisper/blob/main/banner_godot_whisper.jpg?raw=true)
+
 Plugin that adds deformable 2D soft body.
 
 - [Godot VSCode IDE](https://github.com/appsinacup/godot_vscode_ide)
