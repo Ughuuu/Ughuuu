@@ -28,6 +28,6 @@ Plugin that adds VSCode inside Godot.
 
 - [Gamend Game Server](https://github.com/appsinacup/game_server)
 
-![Godot VSCode IDE](https://github.com/appsinacup/game_server/blob/main/apps/game_server_web/priv/static/images/banner.png?raw=true)
+![Godot Game Server](https://github.com/appsinacup/game_server/blob/main/apps/game_server_host/priv/static/images/banner.png?raw=true)
 
 Game server with authentication, users, lobbies, groups, notifications, server scripting and an admin portal.
