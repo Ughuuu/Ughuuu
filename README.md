@@ -26,8 +26,8 @@ Plugin that adds speech to text (STT).
 
 Plugin that adds VSCode inside Godot.
 
-- [Gamend Game Server](https://github.com/appsinacup/game_server)
+- [Gamend Game Server](https://github.com/appsinacup/gamend)
 
-![Godot Game Server](https://github.com/appsinacup/game_server/blob/main/priv/static/images/banner.png?raw=true)
+![Godot Game Server](https://github.com/appsinacup/gamend/blob/main/priv/static/images/banner.png?raw=true)
 
 Game server with authentication, users, lobbies, groups, notifications, server scripting and an admin portal.
