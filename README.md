@@ -1,5 +1,11 @@
 ### Hi there 👋. Here are some of my projects
 
+- [Balaur Engine](https://github.com/balaurengine/balaur)
+
+![Balaur Engine](https://github.com/balaurengine/balaur-website/blob/main/static/brand/balaur-wordmark-dark.png?raw=true)
+
+A deterministic 2D & 3D game engine.
+
 - [Godot Rapier Physics](https://github.com/appsinacup/godot-rapier-physics)
 
 ![Godot Rapier](https://github.com/appsinacup/godot-rapier-physics/blob/main/logo.jpg?raw=true)
